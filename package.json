@@ -1,9 +1,4 @@
-{
-  "version": "1.0.0",
-  "description": "Unofficial jojotab easy deployment version with TompHTTP bare server included.",
-  "type": "module",
-  "scripts": {
-    "start": "node src/index.js"
+
   },
   "files": ["static", "src", ".gitignore", "app.json", ".replit", "replit.nix", "Procfile"],
   "repository": {
