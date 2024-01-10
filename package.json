@@ -1,5 +1,4 @@
 {
-  "name": "school helper for nerds",
   "version": "1.0.0",
   "description": "Unofficial jojotab easy deployment version with TompHTTP bare server included.",
   "type": "module",
